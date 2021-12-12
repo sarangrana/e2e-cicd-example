@@ -8,3 +8,5 @@ Tools used for this example are as below,
 - Ansible
 - Golan (Sample Application)
 - Cloud (AWS/GCP)
+
+
