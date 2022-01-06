@@ -1,10 +1,10 @@
 # End to End CICD Example
-This repo is an example of end to end deployment of an application using Github, Gitlab pipeline, Terraform, Ansible, Demo Golang application and AWS.
+This repo is an example of end to end deployment of an application using below devops tools.
 
 Tools used for this example are as below,
-- Github
-- Jenkins
-- Terraform
-- Ansible
-- Golang (Sample Application)
-- Cloud (AWS/GCP)
+- Source Code Management    : Github
+- Programming Language      : Golang (Sample Application)
+- CI Tool                   : Jenkins
+- Containerization Tool     : Docker
+- Configuration Management  : Terraform
+- Cloud                     : AWS/GCP
