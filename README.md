@@ -3,8 +3,8 @@ This repo is an example of end to end deployment of an application using Github,
 
 Tools used for this example are as below,
 - Github
-- Gitlab
+- Jenkins
 - Terraform
 - Ansible
-- Golan (Sample Application)
+- Golang (Sample Application)
 - Cloud (AWS/GCP)
